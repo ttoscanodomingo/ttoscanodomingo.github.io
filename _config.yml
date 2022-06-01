@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Teresa Toscano"
 title_separator          : "-"
 name                     : &name "Teresa Toscano"
-description              : &description "PhD Candidate at IAA-CSIC <br> Supervisor: Dr. José Luis Gómez"
+description              : &description "PhD Candidate at IAA-CSIC <br> Supervisor: Dr. José L. Gómez"
 url                      : https://ttoscanodomingo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ttoscanodomingo/ttoscanodomingo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Teresa Toscano"
   avatar           : "teresa.jpg"
-  bio              : "PhD Candidate at IAA-CSIC <br> Supervisor: Dr. José Luis Gómez"
+  bio              : "PhD Candidate at IAA-CSIC <br> Supervisor: Dr. José L. Gómez"
   location         : "Granada, Spain"
   employer         :
   pubmed           : 
